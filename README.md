@@ -6,7 +6,7 @@ A 4-wheel drive rover controlled wirelessly from any browser over WiFi, with rea
 
 ## 📹 Demo Video
 
-[![Demo Video](https://img.shields.io/badge/YouTube-Demo%20Video-red?logo=youtube)](YOUR_YOUTUBE_LINK_HERE)
+[![Demo Video](https://img.shields.io/badge/YouTube-Demo%20Video-red?logo=youtube)](https://youtube.com/shorts/gOGSUprT5VE?feature=share)
 
 ---
 
@@ -303,12 +303,11 @@ Release button → /stop → motors halt
 
 ---
 
-## 👥 Team
-
-**Mayank Jain** — Firmware, PID, Hardware  
+## 👤 Author
+**Ayush Kumar Singh** — Firmware, PID, Hardware, wiring, design 
 IoT, Robotics and Automation Enthusiast
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/MayankJain-22)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Cosmic021)
 
 ---
 
